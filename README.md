@@ -11,7 +11,6 @@ The tool is designed to measure system audio latency by:
 4. Optionally generating detailed visualizations of the analysis and outputting latency values to a file.
 
 ### Sample Analysis Output
-*(You may want to replace this path with a link to an actual image in your repository if `samples/set1/latency_corelation.jpg` is a placeholder)*
 ![Sample Latency Analysis](samples/set1/latency_corelation.jpg)
 
 The visualization typically shows:
